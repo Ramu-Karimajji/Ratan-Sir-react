@@ -67,6 +67,7 @@ import Score from "./Score";
 
 function App(){
 return(<>
+  <h2> Done modification by another person</h2>
 <h1>Modified document</h1>
 <Prices/>
 <Apples/>
